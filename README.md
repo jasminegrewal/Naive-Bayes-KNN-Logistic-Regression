@@ -4,3 +4,5 @@
 + Naive Bayes and KNN are implemented in Python.
 + Used Matlab for Logistic Regression.
 
++Data included height, weight and age of people with Man and Woman as class Labels
+
